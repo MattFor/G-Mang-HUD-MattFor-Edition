@@ -38,11 +38,11 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"		"25"
-		"ypos"		"r70"
+		"xpos"		"220"
+		"ypos"		"r117"
 		"zpos"		"2"
-		"wide"		"40"
-		"tall"		"40"
+		"wide"		"50"
+		"tall"		"50"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"		"../hud/class_scoutred"
@@ -53,7 +53,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyImage"
-		"xpos"		"3000"	//3
+		"xpos"		"999"	// invisible
 		"ypos"		"r67"
 		"zpos"		"2"
 		"wide"		"55"
@@ -117,8 +117,8 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
-		"xpos"			"10"
-		"ypos"			"r130"
+		"xpos"		"212"
+		"ypos"		"r198"
 		"zpos"			"2"
 		"wide"			"65"
 		"tall"			"130"
