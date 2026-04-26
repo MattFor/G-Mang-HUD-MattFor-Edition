@@ -21,12 +21,12 @@
 	    "ControlName" "ImagePanel"
 	    "fieldName"   "Speedometer"
 	
-	    "xpos"        "c-10"
-	    "ypos"        "r130"
+	    "xpos"        "c-49"
+	    "ypos"        "r120"
 	    "zpos"        "999"
 	
 	    "wide"        "100"
-	    "tall"        "24"
+	    "tall"        "15"
 	
 	    "visible"     "1"
 	    "enabled"     "1"
