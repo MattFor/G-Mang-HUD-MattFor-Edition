@@ -4,7 +4,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"DefaultVerySmallOutline"
-		"labelText"		"G-Mang HUD B31"
+		"labelText"		"G-Mang HUD MattFor Edition"
 		"textAlignment"		"south-east"
 		"xpos"			"r100"
 		"ypos"			"r20"
