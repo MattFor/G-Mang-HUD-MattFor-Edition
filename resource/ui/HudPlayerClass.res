@@ -22,7 +22,7 @@
 	    "fieldName"   "Speedometer"
 	
 	    "xpos"        "c-49"
-	    "ypos"        "r126"
+	    "ypos"        "r116"
 	    "zpos"        "999"
 	
 	    "wide"        "100"
